@@ -492,10 +492,10 @@ main {
 .title-head {
   font-family: "Alegreya Sans SC", sans-serif;
 
-  * {
-    margin: 0px;
-    padding: 0px;
-  }
+*{
+  margin: 0;
+  padding: 0;
+}
 
   header {
     height: 100vh;
