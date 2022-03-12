@@ -12,9 +12,11 @@
     margin: 0px;
     padding: 0;
 }
+body{
 
+}
 header {
-    background-color: white;
+    background-color: rgb(207, 45, 45);
     color: white;
     height: 18%;
     width: 100%;
@@ -32,7 +34,7 @@ header {
 }
 
 .header-logo > img {
-    width: 70%;
+    width: 40%;
 }
 
 .header-list ul li a {
