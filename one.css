@@ -83,14 +83,14 @@ header ul li a:hover{
 
 .photo img{
     width: 110%;
-    height: 100%;
+    height: 130%;
 }
 
 .user-form{
     background: #F08080;
     padding: 40px;
     width: 50%;
-    height: 140%;
+    height: 130%;
     border-radius: 0px 10px 10px 0px;
 }
 
